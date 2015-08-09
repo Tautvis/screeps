@@ -1,0 +1,14 @@
+{
+  "name": "screeps",
+  "version": "1.0.0",
+  "description": "Source code for screeps MMO scripting game.",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Tautvydas Misiunas",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  }
+}
